@@ -1,4 +1,4 @@
-# GPT Activator ⚡
+# ChatGPT Activator ⚡
 
 > Clean and modern GPT project repository with a polished Windows-style presentation, branded launcher flow, and SEO-ready structure.
 
