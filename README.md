@@ -3,7 +3,8 @@
 > A modern open-source starter repository for GPT-powered workflows, reusable prompts, and AI utility tools.
 
 <p align="center">
-  <img src="./assets/banner.svg" alt="GPT Activator banner" width="100%" />
+  <img width="1919" height="765" alt="image" src="https://github.com/user-attachments/assets/fdaa6309-ba4e-4f53-8b33-7e8970cfd48b" />
+
 </p>
 
 <p align="center">
@@ -12,7 +13,7 @@
   <img alt="OpenAI Ready" src="https://img.shields.io/badge/OpenAI-Ready-10A37F?style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/Built%20with-TypeScript-3178C6?style=for-the-badge" />
 </p>
-<img width="1919" height="764" alt="image" src="https://github.com/user-attachments/assets/9f284651-3764-4561-bd93-4edf0daa6ade" />
+
 
 ## Overview
 
